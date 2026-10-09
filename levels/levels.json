@@ -1,0 +1,46 @@
+{"levels": [
+  {
+    "file": "level_1.png",
+    "name": "Level 1"
+  },
+  {
+    "file": "level_2.png",
+    "name": "Level 2"
+  },
+  {
+    "file": "level_3.png",
+    "name": "Level 3"
+  },
+  {
+    "file": "level_4.png",
+    "name": "Level 4"
+  },
+  {
+    "file": "level_5.png",
+    "name": "Level 5"
+  },
+  {
+    "file": "level_6.png",
+    "name": "Level 6"
+  },
+  {
+    "file": "level_7.png",
+    "name": "Level 7"
+  },
+  {
+    "file": "level_8.png",
+    "name": "Level 8"
+  },
+  {
+    "file": "level_9.png",
+    "name": "Level 9"
+  },
+  {
+    "file": "level_10.png",
+    "name": "Level 10"
+  },
+  {
+    "file": "level_11.png",
+    "name": "Level 11"
+  }
+]}

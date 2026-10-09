@@ -1,0 +1,122 @@
+{"levels": [
+  {
+    "wins": 18,
+    "bestTime": 30.947240829467773,
+    "trueTime": -1,
+    "worstTime": 52.351051330566406,
+    "trueCompletion": false,
+    "totalNearMisses": 429,
+    "losses": 352,
+    "key": "level_5.png"
+  },
+  {
+    "wins": 11,
+    "bestTime": 11.324000358581543,
+    "trueTime": -1,
+    "worstTime": 26.52216911315918,
+    "trueCompletion": false,
+    "totalNearMisses": 3,
+    "losses": 2,
+    "key": "__maze__"
+  },
+  {
+    "wins": 8,
+    "bestTime": 30.464263916015625,
+    "trueTime": -1,
+    "worstTime": 49.093284606933594,
+    "trueCompletion": false,
+    "totalNearMisses": 44,
+    "losses": 30,
+    "key": "level_4.png"
+  },
+  {
+    "wins": 15,
+    "bestTime": 11.284002304077148,
+    "trueTime": 35.79603576660156,
+    "worstTime": 35.79603576660156,
+    "trueCompletion": true,
+    "totalNearMisses": 127,
+    "losses": 113,
+    "key": "level_6.png"
+  },
+  {
+    "wins": 3,
+    "bestTime": 81.35458374023438,
+    "trueTime": -1,
+    "worstTime": 110.83180236816406,
+    "trueCompletion": false,
+    "totalNearMisses": 289,
+    "losses": 260,
+    "key": "level_7.png"
+  },
+  {
+    "wins": 9,
+    "bestTime": 13.31399917602539,
+    "trueTime": -1,
+    "worstTime": 16.065988540649414,
+    "trueCompletion": false,
+    "totalNearMisses": 88,
+    "losses": 73,
+    "key": "level_9.png"
+  },
+  {
+    "wins": 20,
+    "bestTime": 14.8569917678833,
+    "trueTime": -1,
+    "worstTime": 75.92223358154297,
+    "trueCompletion": false,
+    "totalNearMisses": 321,
+    "losses": 267,
+    "key": "level_8.png"
+  },
+  {
+    "wins": 84,
+    "bestTime": 1.5009994506835938,
+    "trueTime": 1.5009994506835938,
+    "worstTime": 94.03836822509766,
+    "trueCompletion": true,
+    "totalNearMisses": 163,
+    "losses": 116,
+    "key": "level_10.png"
+  },
+  {
+    "wins": 12,
+    "bestTime": 29.865251541137695,
+    "trueTime": 29.865251541137695,
+    "worstTime": 45.54741287231445,
+    "trueCompletion": true,
+    "totalNearMisses": 124,
+    "losses": 121,
+    "key": "level_2.png"
+  },
+  {
+    "wins": 12,
+    "bestTime": 5.01900053024292,
+    "trueTime": 5.832001686096191,
+    "worstTime": 15.863006591796875,
+    "trueCompletion": true,
+    "totalNearMisses": 14,
+    "losses": 12,
+    "key": "level_3.png"
+  },
+  {
+    "wins": 19,
+    "bestTime": 5.514998912811279,
+    "trueTime": 6.932002544403076,
+    "worstTime": 14.48299789428711,
+    "trueCompletion": true,
+    "totalNearMisses": 7,
+    "losses": 9,
+    "key": "level_1.png"
+  },
+  {
+    "wins": 12,
+    "bestTime": 5.999999523162842,
+    "trueTime": 5.999999523162842,
+    "worstTime": 11.000003814697266,
+    "trueCompletion": true,
+    "totalNearMisses": 95,
+    "losses": 85,
+    "key": "level_11.png"
+  }
+]}

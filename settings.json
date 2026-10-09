@@ -1,0 +1,11 @@
+{
+  "lightingEnabled": true,
+  "deathFlashEnabled": true,
+  "dangerEdgesEnabled": true,
+  "statsHudEnabled": true,
+  "roastsEnabled": true,
+  "autoRestartOnDeath": false,
+  "bloomEnabled": true,
+  "crtEnabled": true,
+  "nightmareMode": false
+}
